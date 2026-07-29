@@ -73,14 +73,6 @@
         <mxCell id="1zXrTsgSqi12NWxurCwj-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ORDRE DE SUPPRESSION" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="-1070" as="geometry" />
         </mxCell>
-        <mxCell id="1zXrTsgSqi12NWxurCwj-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="1.SERVICE" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="-335" as="geometry" />
-        </mxCell>
-        <mxCell id="1zXrTsgSqi12NWxurCwj-19" edge="1" parent="1" source="1zXrTsgSqi12NWxurCwj-18" style="shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="-540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1zXrTsgSqi12NWxurCwj-22" edge="1" parent="1" source="1zXrTsgSqi12NWxurCwj-20" style="shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" target="1zXrTsgSqi12NWxurCwj-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
