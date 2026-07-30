@@ -55,9 +55,6 @@
         <mxCell id="sxtR9snW6ZgJK0kPjoil-24" parent="UTnE_Fp8JKxwSmtJVWPj-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="amimateur_benevole" vertex="1">
           <mxGeometry height="30" width="140" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="sxtR9snW6ZgJK0kPjoil-104" edge="1" parent="1" source="UTnE_Fp8JKxwSmtJVWPj-13" style="edgeStyle=elbowEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="sxtR9snW6ZgJK0kPjoil-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UTnE_Fp8JKxwSmtJVWPj-13" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="BENEVOLE" vertex="1">
           <mxGeometry height="120" width="140" x="105" y="865" as="geometry" />
         </mxCell>
@@ -239,7 +236,7 @@
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
         <mxCell id="sxtR9snW6ZgJK0kPjoil-81" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="COMPETENCE_BENEVOLE" vertex="1">
-          <mxGeometry height="120" width="170" x="90" y="640" as="geometry" />
+          <mxGeometry height="120" width="170" x="220" y="630" as="geometry" />
         </mxCell>
         <mxCell id="sxtR9snW6ZgJK0kPjoil-82" parent="sxtR9snW6ZgJK0kPjoil-81" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;id&lt;/u&gt;" vertex="1">
           <mxGeometry height="30" width="170" y="30" as="geometry" />
@@ -254,7 +251,10 @@
           <mxGeometry height="30" width="60" x="100" y="800" as="geometry" />
         </mxCell>
         <mxCell id="sxtR9snW6ZgJK0kPjoil-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1,N" vertex="1">
-          <mxGeometry height="30" width="60" x="235" y="585" as="geometry" />
+          <mxGeometry height="30" width="60" x="105" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="sxtR9snW6ZgJK0kPjoil-105" edge="1" parent="1" source="UTnE_Fp8JKxwSmtJVWPj-13" style="shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.347;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;" target="sxtR9snW6ZgJK0kPjoil-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
