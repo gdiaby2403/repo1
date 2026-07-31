@@ -167,7 +167,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J0ct57HryNtL59jZU9pp-2" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;RECOIT&lt;/font&gt;" vertex="1">
+        <mxCell id="J0ct57HryNtL59jZU9pp-2" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;EST RECU PAR&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="190" x="178" y="-180" as="geometry" />
         </mxCell>
         <mxCell id="J0ct57HryNtL59jZU9pp-3" parent="J0ct57HryNtL59jZU9pp-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;id_employe,id_visiteur&lt;/font&gt;&lt;/u&gt;" vertex="1">
