@@ -56,7 +56,7 @@
           <mxGeometry height="30" width="140" y="120" as="geometry" />
         </mxCell>
         <mxCell id="UTnE_Fp8JKxwSmtJVWPj-17" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="CATEGORIE_OBJET" vertex="1">
-          <mxGeometry height="90" width="140" x="40" y="-675" as="geometry" />
+          <mxGeometry height="90" width="140" x="-87" y="-674" as="geometry" />
         </mxCell>
         <mxCell id="UTnE_Fp8JKxwSmtJVWPj-18" parent="UTnE_Fp8JKxwSmtJVWPj-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;id&lt;/u&gt;" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTnE_Fp8JKxwSmtJVWPj-26" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="ETAT_ARRIVEE" vertex="1">
-          <mxGeometry height="90" width="140" x="50" y="-460" as="geometry" />
+          <mxGeometry height="90" width="140" x="-95" y="-470" as="geometry" />
         </mxCell>
         <mxCell id="UTnE_Fp8JKxwSmtJVWPj-27" parent="UTnE_Fp8JKxwSmtJVWPj-26" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;id&lt;/u&gt;" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
