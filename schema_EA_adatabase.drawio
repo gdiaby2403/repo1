@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="WXpA3A9On3Gs6YwwOpYT">
-    <mxGraphModel dx="2369" dy="2008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2028" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,7 +180,7 @@
           <mxGeometry height="50" width="70" x="1315" y="-70" as="geometry" />
         </mxCell>
         <mxCell id="S13ehC3WOYwQgpnHiLxc-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Un bénévole possède 0 ou plusieurs compétences&lt;br&gt;1 compétence est partagé par 1 ou plusieurs bénévoles" vertex="1">
-          <mxGeometry height="30" width="210" x="1417" y="-40" as="geometry" />
+          <mxGeometry height="30" width="210" x="1444" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="S13ehC3WOYwQgpnHiLxc-49" edge="1" parent="1" source="S13ehC3WOYwQgpnHiLxc-48" style="edgeStyle=elbowEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="sxtR9snW6ZgJK0kPjoil-36">
           <mxGeometry relative="1" as="geometry" />
@@ -293,14 +293,14 @@
         <mxCell id="sxtR9snW6ZgJK0kPjoil-68" parent="Bu24OWzhs1zzt5OjmkQ1-91" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="presence_atelier" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bu24OWzhs1zzt5OjmkQ1-97" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="COMPETENCEBENEVOLE" vertex="1">
-          <mxGeometry height="90" width="140" x="1280" y="-100" as="geometry" />
+        <mxCell id="Bu24OWzhs1zzt5OjmkQ1-97" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="COMPETENCE_BENEVOLE" vertex="1">
+          <mxGeometry height="90" width="165" x="1266" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="Bu24OWzhs1zzt5OjmkQ1-98" parent="Bu24OWzhs1zzt5OjmkQ1-97" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;id&lt;/u&gt;" vertex="1">
-          <mxGeometry height="30" width="140" y="30" as="geometry" />
+          <mxGeometry height="30" width="165" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Bu24OWzhs1zzt5OjmkQ1-99" parent="Bu24OWzhs1zzt5OjmkQ1-97" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="libelle_competence" vertex="1">
-          <mxGeometry height="30" width="140" y="60" as="geometry" />
+          <mxGeometry height="30" width="165" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
