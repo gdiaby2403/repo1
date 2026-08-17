@@ -75,10 +75,10 @@
         <mxCell id="UTnE_Fp8JKxwSmtJVWPj-22" parent="UTnE_Fp8JKxwSmtJVWPj-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;id&lt;/u&gt;" vertex="1">
           <mxGeometry height="30" width="170" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="sxtR9snW6ZgJK0kPjoil-76" parent="UTnE_Fp8JKxwSmtJVWPj-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="date_debut_reparation" vertex="1">
+        <mxCell id="sxtR9snW6ZgJK0kPjoil-76" parent="UTnE_Fp8JKxwSmtJVWPj-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="date_debut" vertex="1">
           <mxGeometry height="30" width="170" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="UTnE_Fp8JKxwSmtJVWPj-23" parent="UTnE_Fp8JKxwSmtJVWPj-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="date_fin_reparation" vertex="1">
+        <mxCell id="UTnE_Fp8JKxwSmtJVWPj-23" parent="UTnE_Fp8JKxwSmtJVWPj-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="date_fin" vertex="1">
           <mxGeometry height="30" width="170" y="90" as="geometry" />
         </mxCell>
         <mxCell id="UTnE_Fp8JKxwSmtJVWPj-34" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="COMPETENCE" vertex="1">
