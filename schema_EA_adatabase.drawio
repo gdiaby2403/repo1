@@ -306,7 +306,7 @@
           <mxGeometry height="30" width="60" x="1371" y="-390" as="geometry" />
         </mxCell>
         <mxCell id="Bu24OWzhs1zzt5OjmkQ1-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Une personne s&#39;inscrit à un ou plusieurs ateliers&lt;div&gt;Un atelier a une ou plusieurs inscriptions&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="154" x="980" y="-380" as="geometry" />
+          <mxGeometry height="30" width="154" x="1018" y="-644" as="geometry" />
         </mxCell>
         <mxCell id="Bu24OWzhs1zzt5OjmkQ1-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1,N" vertex="1">
           <mxGeometry height="30" width="60" x="1210" y="-645" as="geometry" />
@@ -325,6 +325,15 @@
         </mxCell>
         <mxCell id="Bu24OWzhs1zzt5OjmkQ1-22" edge="1" parent="1" source="S13ehC3WOYwQgpnHiLxc-14" style="edgeStyle=elbowEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="Bu24OWzhs1zzt5OjmkQ1-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu24OWzhs1zzt5OjmkQ1-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0,1" vertex="1">
+          <mxGeometry height="30" width="60" x="860" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu24OWzhs1zzt5OjmkQ1-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0,1" vertex="1">
+          <mxGeometry height="30" width="60" x="1190" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu24OWzhs1zzt5OjmkQ1-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0,1" vertex="1">
+          <mxGeometry height="30" width="60" x="850" y="-150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
