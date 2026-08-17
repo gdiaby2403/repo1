@@ -114,7 +114,7 @@
         <mxCell id="S13ehC3WOYwQgpnHiLxc-15" parent="sxtR9snW6ZgJK0kPjoil-36" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="prix_reel_vendu" vertex="1">
           <mxGeometry height="30" width="154" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="sxtR9snW6ZgJK0kPjoil-39" parent="sxtR9snW6ZgJK0kPjoil-36" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="mode_paiement" vertex="1">
+        <mxCell id="sxtR9snW6ZgJK0kPjoil-39" parent="sxtR9snW6ZgJK0kPjoil-36" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="mode_paiement (carte, cheque, espece)" vertex="1">
           <mxGeometry height="30" width="154" y="120" as="geometry" />
         </mxCell>
         <mxCell id="sxtR9snW6ZgJK0kPjoil-133" edge="1" parent="1" source="sxtR9snW6ZgJK0kPjoil-60" style="edgeStyle=elbowEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="sxtR9snW6ZgJK0kPjoil-132">
